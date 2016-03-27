@@ -17,4 +17,4 @@ $ircRealName = "KU-bot";
 ### Licence
 [GNU GPLv2](http://www.gnu.org/licenses/gpl-2.0.html)
 
-![php-IRC-js](screenshots/screenshot.jpg)
+![php-IRC-js](https://raw.githubusercontent.com/bedna-KU/php-IRC-js/master/screenshot/screenshot.jpg)

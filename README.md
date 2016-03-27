@@ -7,11 +7,17 @@ none
 
 ### Settings
 Edit in connect.php
+
 $ircServer = "irc.freenode.net";
+
 $ircPort = "6667";
+
 $ircChannel = "#KERNEL_ULTRAS";
+
 $ircUser = "KU-bot";
+
 $ircNick = "KU-bot";
+
 $ircRealName = "KU-bot";
 
 ### Licence
